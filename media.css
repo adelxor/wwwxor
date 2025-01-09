@@ -1,0 +1,25 @@
+/*Start Media By Mustafa Gamal */
+@media screen and (max-width:900px)
+{
+.news
+{
+background-image: none;
+width: 100%;
+}
+}
+@media screen and (max-width:900px)
+{
+.containerss .cover img
+{
+height: 200px;
+}
+}
+@media screen and (max-width:900px)
+{
+#showalldata
+{
+width: 100%;
+}
+}
+
+/*End Media By Mustafa Gamal */
